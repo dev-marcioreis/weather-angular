@@ -1,4 +1,9 @@
-# AngularWeatherAngular
+# Weather (Angular)
+
+Futuro projeto em Angular que vou desenvolver.<br>
+Link de acesso: 
+
+AngularWeatherAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
