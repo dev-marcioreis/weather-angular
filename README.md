@@ -1,7 +1,7 @@
 # Weather (Angular)
 
 Futuro projeto em Angular que vou desenvolver.<br>
-Link de acesso: 
+Este projeto ainda não tem previsão para seu desenvolvimento.
 
 AngularWeatherAngular
 
